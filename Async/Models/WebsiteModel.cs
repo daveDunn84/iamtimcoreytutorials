@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Async.Models
+﻿namespace Async.Models
 {
     public class WebsiteModel
     {
