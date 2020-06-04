@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "Async\Async.csproj", "{72E4F8C8-D430-4B0F-8AFA-1E7C55265FE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async_Dave", "Async\Async_Dave.csproj", "{72E4F8C8-D430-4B0F-8AFA-1E7C55265FE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async", "AsyncAdvanced\Async.csproj", "{A882C82F-7B2F-4D38-8899-63629C4891F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAdvanced", "WPFUserInterface\AsyncAdvanced.csproj", "{A06EE4C4-8869-4805-9FF9-2655E795E6F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{72E4F8C8-D430-4B0F-8AFA-1E7C55265FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72E4F8C8-D430-4B0F-8AFA-1E7C55265FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72E4F8C8-D430-4B0F-8AFA-1E7C55265FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A882C82F-7B2F-4D38-8899-63629C4891F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A882C82F-7B2F-4D38-8899-63629C4891F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A882C82F-7B2F-4D38-8899-63629C4891F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A882C82F-7B2F-4D38-8899-63629C4891F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A06EE4C4-8869-4805-9FF9-2655E795E6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A06EE4C4-8869-4805-9FF9-2655E795E6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A06EE4C4-8869-4805-9FF9-2655E795E6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A06EE4C4-8869-4805-9FF9-2655E795E6F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
